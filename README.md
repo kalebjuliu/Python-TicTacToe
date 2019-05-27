@@ -1,2 +1,2 @@
 # python-tictactoe
-A TicTacToe game made from Python
+A TicTacToe made from Python
